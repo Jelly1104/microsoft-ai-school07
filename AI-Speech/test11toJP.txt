@@ -1,4 +1,0 @@
-﻿audio.input.id	recognizer.session.started.sessionid	recognizer.recognized.result.text	recognizer.recognized.result.translated.text
-test11	563131f5e4f74d6394d97a276b8d2632	안녕. 반가워. 너, 오늘 컨디션은 어때?	
-test11	e00bc58271ba47afa5c85a885cb9e29f	안녕. 반가워. 너, 오늘 컨디션은 어때?	
-test11	50591799a2574093ac72bbc51b5df7d4	안녕. 반가워. 너, 오늘 컨디션은 어때?	こんにちは。 こんにちは。 今日の気分はいかがですか?
