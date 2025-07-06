@@ -1,0 +1,19 @@
+﻿파일 이름,일반 텍스트,SSML
+MakeAudio_EmmaDragonHDLatest,"Have you ever talked to an AI without even knowing it?
+From voice assistants to content recommendations,  
+AI is already part of your everyday life.
+But here’s the twist — AI is not just copying humans,  
+it’s learning, adapting, and even creating.
+The future isn't coming. It's already here.
+And AI is leading the way.
+","<!--ID=B7267351-473F-409D-9765-754A8EBCDE05;Version=1|{""VoiceNameToIdMapItems"":[{""Id"":""53dec01b-8b6f-46ed-8a23-98499dc1e89a"",""Name"":""en-US-Emma:DragonHDLatestNeural"",""ShortName"":""en-US-Emma:DragonHDLatestNeural"",""Locale"":""en-US"",""VoiceType"":""StandardVoice""}]}-->
+<!--ID=FCB40C2B-1F9F-4C26-B1A1-CF8E67BE07D1;Version=1|{""Files"":{}}-->
+<!--ID=5B95B1CC-2C7B-494F-B746-CF22A0E779B7;Version=1|{""Locales"":{""en-US"":{""AutoApplyCustomLexiconFiles"":[{}]}}}-->
+<speak xmlns=""http://www.w3.org/2001/10/synthesis"" xmlns:mstts=""http://www.w3.org/2001/mstts"" xmlns:emo=""http://www.w3.org/2009/10/emotionml"" version=""1.0"" xml:lang=""en-US""><voice name=""en-US-Emma:DragonHDLatestNeural"">Have you ever talked to an AI without even knowing it?
+From voice assistants to content recommendations,  
+AI is already part of your everyday life.
+But here’s the twist — AI is not just copying humans,  
+it’s learning, adapting, and even creating.
+The future isn't coming. It's already here.
+And AI is leading the way.
+</voice></speak>"
