@@ -144,8 +144,8 @@ demo.launch()
         <th>🧑‍💻 haarcascade_frontalface_default.xml</th>
     </tr>
     <tr>
-        <td><img src="Opencv/result/haarcascade_fullbody.webp" alt="전신 감지"></td>
-        <td><img src="Opencv/result/haarcascade_frontalface_default.webp" alt="얼굴 감지"></td>
+        <td><img src="result/haarcascade_fullbody.webp" alt="전신 감지"></td>
+        <td><img src="result/haarcascade_frontalface_default.webp" alt="얼굴 감지"></td>
     </tr>
 </table>
 
