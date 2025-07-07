@@ -149,12 +149,15 @@ demo.launch()
     </tr>
 </table>
 
+
 ##💡 학습 정리
+
 이번 세션을 통해 OpenCV를 활용하여 실시간 얼굴 인식을 구현하는 방법을 배웠습니다. Haar cascade와 같은 사전 훈련된 모델을 쉽게 활용하여 복잡한 얼굴 인식 작업을 빠르게 처리할 수 있었습니다. 이 과정에서 이미지 처리 기술을 활용하여 인식된 결과를 시각적으로 명확히 전달하는 방법도 익혔습니다. 이러한 기술은 향후 다양한 컴퓨터 비전 응용 프로그램을 구축하는 데 유용하게 사용될 것입니다.
 
 
 
 ###  🙆🏻‍♀️ About Me
+
 Eunah Jeong (정은아)
 
 [![GitHub](https://badgen.net/badge/icon/github%20Eunah?icon=github&label)](https://github.com/Jelly1104/microsoft-ai-school07) [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/eunah-jeong-02115b24b/)](https://www.linkedin.com/in/eunah-jeong-02115b24b/)
